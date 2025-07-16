@@ -5,7 +5,7 @@
 <h1 align="center">@xinz-n/baileys</h1>
 
 A customized WhatsApp Web API built and maintained by [@xinz21](https://github.com/xinz21)
-This package is designed to support modern WhatsApp features using the>
+This package is designed to support modern WhatsApp feature 
 ---                                                                    
 ## Legal Notice
 
