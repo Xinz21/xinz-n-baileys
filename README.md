@@ -10,8 +10,9 @@ This package is designed to support modern WhatsApp features using the>
 ## Legal Notice
 
 This project is not affiliated with or endorsed by WhatsApp.
-Please use this package with responsibility. The source is made availa>
-The maintainers are not responsible for misuse or violation of WhatsAp>
+Please use this package with responsibility. 
+The source is made availa
+The maintainers are not responsible for misuse or violation of WhatsAp
 
 ---
 
@@ -19,11 +20,11 @@ The maintainers are not responsible for misuse or violation of WhatsAp>
 This work stands on contributions from many great developers.          
 Special thanks to:
                                                                      
-- [@WhiskeySockets](https://github.com/WhiskeySockets/Baileys) — core >
-- [@pokearaujo](https://github.com/pokearaujo/multidevice) — MD revers>
-- [@sigalor](https://github.com/sigalor/whatsapp-web-reveng) — Web ver>
-- [@Rhymen](https://github.com/Rhymen/go-whatsapp) — for Go-based stru>
-- [@clara-defailion](https://github.com/clara-defailion) — support and>
+- [@WhiskeySockets](https://github.com/WhiskeySockets/Baileys) — core 
+- [@pokearaujo](https://github.com/pokearaujo/multidevice) — MD reversed
+- [@sigalor](https://github.com/sigalor/whatsapp-web-reveng) — Web version 
+- [@Rhymen](https://github.com/Rhymen/go-whatsapp) — for Go-based struktur 
+- [@clara-defailion](https://github.com/clara-defailion) — support
 - [@im-dims](https://github.com/Im-Dims) — inspiration
 
 ---                                                                                                                    
