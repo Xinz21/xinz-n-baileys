@@ -16,6 +16,14 @@
   ],
   "author": "XinzFt21",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xinz21/xinz-n-baileys.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xinz21/xinz-n-baileys/issues"
+  },
+  "homepage": "https://github.com/Xinz21/xinz-n-baileys#readme",
   "dependencies": {
     "qrcode-terminal": "^0.12.0",
     "ws": "^8.13.0",
